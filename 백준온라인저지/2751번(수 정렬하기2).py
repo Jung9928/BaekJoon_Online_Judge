@@ -1,5 +1,8 @@
-N = int(input())        # 수의 개수 입력
-number = []             # 숫자를 저장할 리스트 생성
+# 수의 개수 입력
+N = int(input())
+
+# 숫자를 저장할 리스트 생성
+number = []             
 
 # 리스트에 숫자를 하나씩 저장.
 for i in range(N):
